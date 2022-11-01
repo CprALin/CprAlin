@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://imgs.search.brave.com/mVz9ssdvUX0AiyjieeanKt4_lb6j8dmTpDmGs1emtGc/rs:fit:670:425:1/g:ce/aHR0cHM6Ly93d3cu/bXl3ZWJ3b3JsZC5p/bi93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wNS93ZWItZGVz/aWduLWtlcmFsYS5n/aWY.gif)
+
 <h1 align="center">Hi 👋, I'm Alin</h1>
 <h3 align="center">A passionate frontend and backend developer from Romania!</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/V8EpJd4698JgJ1cS1bl7LsX0r3KTC5elwIx2WTP4WXA/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQxLzdl/L2JlLzQxN2ViZWU5/ODZhZWM0MTYyOTI3/OGIxZTA0Y2ZiZmU5/LmdpZg.gif">
