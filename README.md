@@ -5,7 +5,7 @@
 
 - 🔭 I’m student at **Ovidius University on Informatic profile!**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **.**
 
 - 👨‍💻 All of my projects are available on [https://github.com/CprALin?tab=repositories](https://github.com/CprALin?tab=repositories)
 
