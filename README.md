@@ -5,13 +5,13 @@
 
 - 🔭 I’m student at **Ovidius University on Informatic profile!**
 
-- 🌱 I’m currently learning **Java and C++**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available on [https://github.com/CprALin?tab=repositories](https://github.com/CprALin?tab=repositories)
 
 - 📫 How to reach me **stfalin@yahoo.com**
 
-- ⚡ Fun fact **I am positive person.**
+- ⚡ **I am positive person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
