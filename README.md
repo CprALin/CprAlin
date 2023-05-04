@@ -2,7 +2,7 @@
 <h3 align="center">Exploring the world of programming and software development</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/V8EpJd4698JgJ1cS1bl7LsX0r3KTC5elwIx2WTP4WXA/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQxLzdl/L2JlLzQxN2ViZWU5/ODZhZWM0MTYyOTI3/OGIxZTA0Y2ZiZmU5/LmdpZg.gif">
 
-- 🌱 I’m currently learning **.**
+- 🌱 I’m currently learning **. I'm Computer Science Student at Ovidius University.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CprALin?tab=repositories](https://github.com/CprALin?tab=repositories)
 
